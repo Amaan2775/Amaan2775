@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Amaan2775
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python 
+- 👀 Learning to code </>
 
 
 <!---
